@@ -1,0 +1,1 @@
+select customerName,city from customers;
