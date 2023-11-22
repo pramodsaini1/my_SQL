@@ -1,1 +1,14 @@
 # my_SQL
+
+# SELECT
+
+# INSERT
+
+# DELETE
+
+# UPDATE
+
+# ORDER BY
+
+
+
