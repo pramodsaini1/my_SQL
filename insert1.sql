@@ -1,0 +1,1 @@
+insert into customers (customerName,city,Country) values ('pramod','jhunjhunu','india');
