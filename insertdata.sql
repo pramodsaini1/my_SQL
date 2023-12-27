@@ -1,0 +1,1 @@
+insert into Personal(id,name,birth_date,phone,gender) values(1,"prmaod","2000-06-25","8905648522","Male");
