@@ -1,0 +1,1 @@
+select * from personal where city<>'agra'
